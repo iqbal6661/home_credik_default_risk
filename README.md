@@ -19,6 +19,7 @@
 9. Conclusion
     
    **EDA**
+   
 Kondisi Keuangan Pelanggan: Sebagian besar pelanggan Home Credit, yaitu 91.9%, memiliki kemampuan untuk membayar kredit mereka. Hal ini mengindikasikan bahwa sebagian besar pelanggan memiliki kondisi keuangan yang stabil dan mampu memenuhi kewajiban pembayaran kredit.
 
 Gender dan Penggunaan Kredit: Wanita memiliki andil yang signifikan dalam penggunaan kredit, dengan 65.8% pelanggan Home Credit adalah wanita. Hal ini menunjukkan bahwa wanita memiliki kebutuhan yang lebih tinggi dalam menggunakan kredit untuk memenuhi kebutuhan keuangan mereka.
