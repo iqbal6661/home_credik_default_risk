@@ -1,17 +1,23 @@
 1. Full Name & Batch
+   
    nama : Iqbal Awis Nurdiansyah
+   
    batch : FTDS RMT - 019
 
-2. Dashboard / Deployment Link
+3. Dashboard / Deployment Link
+   
    https://lookerstudio.google.com/reporting/a0d16fe7-cfbf-4766-8076-f09e48535c8a
    
-3. Project Title
+5. Project Title
+   
    Home Credit Default Risk
    
-4. Project Description
+7. Project Description
+   
    melakukan pra-pemrosesan data, eksplorasi data, pemilihan fitur yang tepat, dan membangun model machine learning.
    
-5. Conclusion
+9. Conclusion
+    
    **EDA**
 Kondisi Keuangan Pelanggan: Sebagian besar pelanggan Home Credit, yaitu 91.9%, memiliki kemampuan untuk membayar kredit mereka. Hal ini mengindikasikan bahwa sebagian besar pelanggan memiliki kondisi keuangan yang stabil dan mampu memenuhi kewajiban pembayaran kredit.
 
@@ -24,11 +30,13 @@ Pekerjaan dan Penggunaan Kredit: Pekerjaan dengan jumlah pelanggan terbanyak ada
 Tingkat Pembayaran Kredit: Meskipun terdapat perbedaan dalam tingkat kredit macet antara jenis pekerjaan dan gender tertentu, kesimpulan utama adalah bahwa tidak ada faktor tunggal yang secara signifikan mempengaruhi kemampuan pelanggan untuk membayar kredit mereka. Artinya, faktor seperti jenis pekerjaan atau gender tidak dapat dijadikan prediktor tunggal dalam menentukan apakah seseorang akan membayar kredit atau tidak.
 
 **Model**
+
 Dari ketiga model yang digunakan LogisticRegression, XGBoost, dan RandomForest. LogisticRegression merupakan model yang terbaik dan menghasilkan nilai ROC-AUC sebesar 57% .
 
 Karena keterbatasan waktu dan pengerjaan Model masih kurang baik dalam segi performance, Model dapat ditingkatkan dengan memlilih fitur - fitur yang lebih berkorelasi dengan target.
 
 **Rekomendasi**
+
 Mengingat mayoritas pelanggan dapat membayar kredit, perusahaan dapat terus fokus pada menarik pelanggan baru dengan menawarkan produk dan layanan yang menarik.
 
 Menyadari bahwa wanita merupakan segmen pelanggan yang dominan, perusahaan dapat mengembangkan strategi pemasaran yang lebih terfokus untuk menarik lebih banyak pelanggan wanita.
